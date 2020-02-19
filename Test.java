@@ -1,4 +1,4 @@
-package com.trs.bigscreendata;
+package com.trs.test;
 
 import org.junit.platform.commons.util.StringUtils;
 
